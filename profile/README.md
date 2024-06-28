@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://via.placeholder.com/50x50.png?text=T" width="30px" style="vertical-align: bottom;"> Tunetum
+  Tunetum
 </h1>
 
 <p align="center">
